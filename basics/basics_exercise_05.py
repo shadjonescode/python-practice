@@ -1,4 +1,5 @@
 # 11/21/2025
+
 # Practice with str methods and basic transformations
 sentence = "python is awesome!"
 

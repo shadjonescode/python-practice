@@ -1,4 +1,5 @@
 # 11/21/2025
+
 # Store basic information using different data types
 name = "Shad"        # string variable for person's name
 age = 23             # integer variable using person's age
